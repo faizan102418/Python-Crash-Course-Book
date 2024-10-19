@@ -16,10 +16,10 @@ To get started, clone this repository and open it in your favorite Python IDE or
 ```bash
 git clone https://github.com/your-username/Python-Crash-Course-Book.git
 
-Key Concepts
-Throughout the book, I will be exploring the following key concepts:
+##Key Concepts
+ Throughout the book, I will be exploring the following key concepts:
 
-Python Basics
+##Python Basics
 Data Structures (lists, dictionaries, sets, tuples)
 Control Flow (if statements, loops)
 Functions and Modules
